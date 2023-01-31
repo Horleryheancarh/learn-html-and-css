@@ -14,9 +14,9 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #ddebf8;
-    color: #2b2839;
-    border-bottom: 6px solid #d8cefe;
+    background: #342e37;
+    color: #16db93;
+    border-bottom: 6px solid #004f2d;
         
     /*
     Challenge:
@@ -26,6 +26,6 @@ body {
 }
 
 .border-blue {
-    border: 1px dotted blue;
+    border: 1px dotted #38aecc;
 }
 
